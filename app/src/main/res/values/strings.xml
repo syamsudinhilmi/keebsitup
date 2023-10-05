@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">KeebsItUp</string>
+
+    <string name="keyboards_name">Keyboards</string>
+    <string name="keyboards_price">Price</string>
+    <string name="description">Description</string>
+    <string name="about">About</string>
+    <string name="text_spec">Specification</string>
+
+    <string name="specification">Keebs Spec</string>
+
+    <string name="creator_name">Hilmi Syamsudin</string>
+    <string name="creator_email">hilmisyamsudin@students.unnes.ac.id</string>
+
+    <string-array name="data_name">
+        <item>IQUNIX SUPER 1+1</item>
+        <item>Zoom75 x Kitsune</item>
+        <item>Akko MonsGeek M1</item>
+        <item>Zoom65 x Yamanote Line</item>
+        <item>Zoom TKL EE</item>
+        <item>Cupid 65</item>
+        <item>Molly60</item>
+        <item>MKC75</item>
+        <item>KFA N2O</item>
+        <item>AVME-01 Deskmat</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>$349</item>
+        <item>$289</item>
+        <item>$120</item>
+        <item>$199</item>
+        <item>$224</item>
+        <item>$269</item>
+        <item>$130</item>
+        <item>4104</item>
+        <item>$24</item>
+        <item>$28</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>"1+1" means "IQUNIX + You", IQUNIX basic layout + your individual needs = Super 1+1 Series. 1+1 can be equal to WKL, 75%, FRL, 96%, full size, and other layouts. The latest launch is 1+1 = TKL, a gasket mount keyboard kit with 89 keys layout, crafted from full aluminum. IQUNIX SUPER 1+1 conveys a fusion of premium engineering, timeless minimalist design,and limitless creative possibilities built for visionaries by visionaries. Where will inspiration strike next? The open road awaits.</item>
+
+        <item>Zoom75 Kitsune Special Edition is a limited edition Zoom75 keyboard created by Meletrix and themed by SxM Designs. Zoom75 X Kitsune keyboard is a high-quality keyboard that is designed to meet the needs of gamers and professionals alike. This keyboard is hot swappable, which means that you can easily swap out the switches without having to solder anything. This makes it easy to customize your keyboard to your liking and to experiment with different types of switches. Additionally, the keyboard has QMK/VIA support, which means that you can easily program it to your liking and customize it to your specific needs.</item>
+
+        <item>The MonsGeek M1 is the best premium option to begin your custom mechanical keyboard journey with. MonsGeek strictly manages to reduce unnecessary costs through its advanced supply chain to deliver the best value for users. MonsGeek comes with a PC plate as standard and offers other plates separately. We also offer additional tape and teflon pads for potential mod. M1 will be available directly, through our partners and from other mainstream shopping platforms as accessibility is our ultimate goal.</item>
+
+        <item>Introducing the Meletrix Zoom65 V2 x Yamanote Line - a limited editon Zoom65 V2 Collaboration. This keyboard will be limited to 125 units at Cannonkeys and 500 units worldwide! The Zoom65 V2 is a gasket mounted 65% keyboard with a knob, and the matching keycaps being offered are all sides dyesub PBT. This all-side dyesub PBT Cherry profile keycap set is loosely based on the renowned silver-green colored E235 tram in Tokyo, Japan - also named after the renowned tram loop service: Yamanote Line (山手線).</item>
+
+        <item>Zoom TKL EE by Meletrix. Meletrix is back again, with a brand new custom- this time in the TKL form factor! With 10 case colors to choose from and 12 backplate/accent options there are so many ways to build a custom TKL on a budget! Zoom TKL uses a gasket isolation mount structure for a soft, bouncy and pleasant typing feel that won\'t fatigue your fingers even after hours of typing. Gasket mount keyboards sound better and feel more even throughout the board than the typical off-the-rack tray mount keyboards.</item>
+
+        <item>Cupid 65 by Chaosera is a stunning addition to the realm of mechanical keyboards. Inspired by Greek mythology, Cupid65 was meticulously designed 65% layout kit embodies the spirit of Cupid, the adorable and mischievous cherub. With its elegant curves and vibrant color selection, the Cupid-65 captures the whimsical charm of this legendary character. Building upon the success of their Hercules 80 and EU 75, Chaosera have seamlessly blended artistry and functionality to deliver an exceptional typing experience that sparks creativity and passion.</item>
+
+        <item>Molly60 is modeled after the famous 60 layout of HHKB or WK, compact layout, elegant design and durable aluminum frame. Molly60 saves desk space while still being sophisticated. For Molly60, programmers and gamers may find it very suitable for everyday use! With an array of enthusiast features only outstripped by its array of eye-catching colorways, Molly 60% Barebones Mechanical Keyboard Kit from KPrepublic boasts a formidable blend of substance and style. At the intersection of both is its impressive aluminum case, which comes in your choice of eight impressively vibrant colors, all with playful names like Haze Blue and Taro Purple</item>
+
+        <item>MKC75 by MyKeyClub is a versatile 75% mechanical keyboard with boundless options! Compact, stylish, and crafted with a CNC-machined aluminum case for durability. MKC75 is an affordably-priced aluminum 75% that offers a full suite of customization though its myriad features and options! Both tri-mode and wired PCB kits are available for purchase, and the board includes a plate in a material of your choice. Additionally, the MKC75 uses a three-in-one mounting structure that allows you to choose between a top mount or a gasket mount to either the plate or PCB, and can even be assembled platelessly!</item>
+
+        <item>KeebsForAll N2O (Laughing Gas) Switches by Aflion, inspired by The Joker and KFA love for Chemistry! N2O switches are hand-lubed with Krytox 105 and Krytox 205, so no need to worry about lubing! They feature a new mold, polished stem rail. N2O comes with a long pole stem, 20 mm length long spring. The color-way is inspired by The Joker: purple top housing, green bottom housing, and grey stem. No need for lubing will save you ton of time and they are extremely smooth and perfect addition to your setup for the holidays!</item>
+
+        <item>A dark monochrome design featuring a fictional advanced android, the AXIS Corporations AVME-01, depicted in a sleek and minimal polygonal style as well as a corrupted counterpart with a higher detail density and intricate execution. This project is a collaboration between T4CO_G4M3 and KeebsForAll</item>
+    </string-array>
+
+    <string-array name="data_spec">
+        <item>• Typing Angle: 6.5 Degree\n• Front Height: 22mm\n• Size: 377mm * 128mm\n• Case Material: Aluminum\n• Structure: Gasket Mount\n• Stabs: PCB-Mount Stabilizers\n• Connection: Wired / Tri-Mode\n• Software: QMK/IQUNIX Firmware\n• Interface: USB-C\n</item>
+
+        <item>• Kitsune Themed\n• Top Case and Bottom Case: Anodized Navy\n• External Weight : Anodized Navy\n• Backplate: Anodized Rosegold\n• Side Engraving with Multicolored Infill (Red and White)\n• Back usb port engraving with multicolor infill (Red and White)\n• Backplate Engraving with Multicolor Infill (Black and Red)\n• Weight Engraving with Multicolor Infill (Red and White)\n• Custom Badge with multicolor Infill (Red and White)\n• Silver Polished Chamfers\n</item>
+
+        <item>• Gasket-Mounted\n• Aluminum CNC Case\n• Wired USB-C Connection\n• LED RGB\n• Hotswappable\n• PC Plate\n• MonsGeek Custom Material Plate Foam\n• MonsGeek Custom Material 3mm Case Foam\n• Akko Screw-in Stabilizer (pre-clipped, but not pre-installed, 4*2u+1*6.25u)\n• Teflon Pads (Not Pre-Installed)\n• Software: VIA/QMK\n• Size: 13" x 5.7" x 1.2"\n• Weight: 4.3lbs\n</item>
+
+        <item>• Keyboard Layout: 66 keys\n• Case Material: Aluminum\n• Case Treatment Process: Anodized Silver + Pattern Screen Printing +Character Infill\n• Case Color : Anodized silver, which is different from GT silver of Zoom65 before\n• Glass Backplate: Screen Printing + UV (A whole piece of backplate on the back)\n• Knob: PVD Silver\n• Plate: PC\n• External Weight: None\n• Added E235 Tram Elements in Design.\n• Stabilizers: 5x2U+1x6.25U\n• Connection Method: Wireless (Wired and Bluetooth connection)\n• Mounting Style: Gasket Mount\n• PCB: 1.2mm Thickness, with Daughterboard\n• VIA Support: Yes\n• System Support: Windows, Mac, iOS, Android\n• Bluetooth Version: 5.0\n• Battery Capacity: 2250mAh\n• Typing Angle: 6.5°\n• Forehead Height: 20.8mm\n• Keyboard Storage Case: Yes, one black case\n</item>
+
+        <item>• Bluetooth 1.2mm Flex Cut PCB (VIA Support)\n• F13 WK TKL Layout\n• Gasket Sleeve Mount\n• Zoom TKL top and bottom aluminium case\n• Backplate and back accent\n• Ai03 PCB daughter board and JST cable\n• PC or Aluminum Plate\n• PCB\n• Poron dampener (for PC plate version only)\n• Switch Poron dampener (for PC plate version only)\n• Bottom case Poron dampener (for PC plate version only)\n• Gasket sleeves\n• WS stabilizers\n• Coiled cable\n• Keyboard case\n• Extra accessories and hardware such as feet and screws\n</item>
+
+        <item>• Layout: 65%\n• Structure: Traditional Gasket Mount\n• Connection: Dual Mode Wired / Bluetooth\n• Battery Capacity: 4000mAh\n• PCB: Via-Compatible, Full RGB, Hotswap, with Flex-Cuts\n• Typing Angle: 6.5 Degrees\n• Case Material: 6063 Aluminum Alloy\n• Surface Finishing: Anodizing/Electroplating/Powder Coating\n• Anodizing Colors: Moonlight Silver, Heartseeker, Lavender Purple, Deep\n• Ocean Blue, Agate Green\n• Electroplating: Strawberry Milkshake Pink, Minty Seabreeze, Almond White\n• Powder Coating: Grapefruit Soda Orange, Banana Milkshake Yellow\n• Standard Plate: PC Plate (Compatible with PCB Mount Stabilizers)\n• Additional Plate:\n• PC Plate (Compatible with Plate Mount Stabilizers)\n• FR4 Plate (Compatible with PCB Mount Stabilizers)\n• Copper Plate (Compatible with PCB Mount Stabilizers）\n</item>
+
+        <item>• Material: Aluminum, spray paint case\n• Weight: Aluminum (spray paint), PVD Brass, PVD Stainless Steel\n• Mounting Style: Gasket\n• Degree：7.5°\n• Plate: FR4/PC\n• PCB: Hot-swap, Non-flex-cut, 1.6mm Thickness, QMK - Via Support, multilayouts support\n• Connectivity: USB-C\n• Layout: HHKB, WK\n• Weight: 2kg (fully packaged during shipping), 1.1kg fully built\n</item>
+
+        <item>• Typing angle: 7°\n• Front height: 18.5 mm\n• Material: Full CNC 6063 aluminum\n• Dimension: 320*134.4*33mm\n• Three-in-one Structure: TOP Mount / Plate Gasket Mount / PCB Gasket Mount\n• QMK/VIA Supported（wired)\n• Support PCB stabilizers\n\n• Unbuilt Weight:\n• With PVD WEIGHT: 1.693kg\n• With Alu WEIGHT: 1.425kg\n\n• Built Weight:\n• With PVD WEIGHT: 1.86kg\n• With Alu WEIGHT: 1.592kg\n\n• Color Options\n• 4 E-coat case：E-white, Milky White, Pink, Lilac\n• 6 Anodized Case: Orange, Black, Brown, Grey, Silver, Green\n• 7 color combose case：E-White and Black, Orange and Black, Grey and Black, Silver and Black, Wine Red and Black, Deep Blue and Black, Green and Black\n</item>
+
+        <item>• Linear\n• Hand Lubed with Krytox 105 and Krytox 205\n• PC Top Housing\n• Nylon Bottom Housing\n• POM Stem\n• 63.5g spring\n• 3.5 total travel\n• Long Pole Stem\n• 20mm length Stainless Steel spring\n• Single Stage Spring\n• Polished mold\n• Manufactured by Aflion\n• 5 pin MX\n• 1 jar contains 36 hand-lubed switches\n</item>
+
+        <item>• 900mm x 400mm\n• 4mm thick\n• Stitched edges\n• High quality printing process\n• Design by T4CO_G4M3\n</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/supertkl</item>
+        <item>@drawable/zoomkitsune</item>
+        <item>@drawable/monsgeek</item>
+        <item>@drawable/zoomyamanote</item>
+        <item>@drawable/zoomtkl</item>
+        <item>@drawable/cupid</item>
+        <item>@drawable/mkc</item>
+        <item>@drawable/molly</item>
+        <item>@drawable/kfaswitches</item>
+        <item>@drawable/avme</item>
+    </integer-array>
+
+    <string-array name="data_link">
+        <item>https://keebsforall.com/products/super-1-1-by-iqunix?_pos=2_psq=SUPER_ss=e_v=1.0</item>
+        <item>https://keebsforall.com/products/zoom75-x-kitsune-1?_pos=3_psq=kitsune_ss=e_v=1.0monsgeek</item>
+        <item>https://keebsforall.com/products/akko-monsgeek-m1-diy-kit?_pos=1_psq=monsgee_ss=e_v=1.0</item>
+        <item>https://keebsforall.com/products/zoom65v2-x-yamanote-line-theme-keyboard-kit?_pos=1_psq=zoom65+yamanote_ss=e_v=1.0</item>
+        <item>https://keebsforall.com/products/zoom-tkl-ee-by-meletrix-navy-case-color?_pos=1_psq=zoom+tkl+ee_ss=e_v=1.0</item>
+        <item>https://keebsforall.com/products/cupid-65-keyboard-kit-by-chaosera?_pos=1_psq=cupid65_ss=e_v=1.0</item>
+        <item>https://keebsforall.com/products/copy-of-pre-order-molly60?_pos=1_psq=molly_ss=e_v=1.0</item>
+        <item>https://keebsforall.com/products/mkc75-keyboard-by-mykeyclub?_pos=1_psq=mkc_ss=e_v=1.0</item>
+        <item>https://keebsforall.com/products/n2o-laughing-gas-switches?_pos=1_psq=kfa+n2_ss=e_v=1.0</item>
+        <item>https://keebsforall.com/products/avme-01-deskmat?_pos=1_psq=avme_ss=e_v=1.0</item>
+
+    </string-array>
+</resources>
